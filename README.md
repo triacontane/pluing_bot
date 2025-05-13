@@ -2,11 +2,14 @@
 本リポジトリは、私が作成したXのbotを作成、管理するためのものです。
 
 ## botアカウント
-[トリアコンタンのプラグインbot](https://twitter.com/triacontane_bot)
-[徳川まつり台詞bot](https://x.com/t_matsuri_bot_2)
+- [トリアコンタンのプラグインbot](https://twitter.com/triacontane_bot)
+- [徳川まつり台詞bot](https://x.com/t_matsuri_bot_2)
 
 ## 概要
 情報取得元のスプレットシートからGoogle Sheets APIを用いて内容を取得し、ランダムで選択した内容をポストします。
+
+- [トリアコンタンのプラグインbot](https://docs.google.com/spreadsheets/d/1BnTyJr3Z1WoW4FMKtvKaICl4SQ5ehL5RxTDSV81oVQc/edit?pli=1&gid=1411848872#gid=1411848872)
+- [徳川まつり台詞bot](https://docs.google.com/spreadsheets/d/1Po7srijCSNCjDvFhrQ-C35lpwF5wppReXW8x655zc1o/edit?gid=0#gid=0)
 
 ## 利用技術
 ### Google Sheets API
